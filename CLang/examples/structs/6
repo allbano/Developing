@@ -1,1 +1,0 @@
-	printf("Digite o nome: "); fgets(p[i].name,50,stdin);
